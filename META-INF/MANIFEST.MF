@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Class-Path: .
+Main-Class: EmailTest
+
+Name: org/apache/log4j/
+Implementation-Version: 1.2.14
+Implementation-Title: log4j
+Implementation-Vendor: "Apache Software Foundation"
+
